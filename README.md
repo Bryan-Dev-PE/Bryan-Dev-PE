@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-dev-pe&show_icons=true&locale=en" alt="bryan-dev-pe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-dev-pe&" alt="bryan-dev-pe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-dev-pe&show_icons=true&locale=en" alt="bryan-dev-pe" /></p>
